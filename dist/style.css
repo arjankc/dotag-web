@@ -3446,7 +3446,7 @@ blockquote {
    Link
    ========================================================================== */
 a {
-	color: #1eb858;
+	color: #ee6e24;
 	text-decoration: none;
 	font-size: inherit;
 }
@@ -7764,7 +7764,7 @@ body.logged-in .YouTubePopUp-Wrap {
 .button__link {
 	height: 60px;
 	width: 100%;
-	background: #1eb858;
+	background: #ee6e24;
 	color: white;
 	border: none;
 	font-size: 16px;
@@ -7792,7 +7792,7 @@ body.logged-in .YouTubePopUp-Wrap {
 
 .pricing--featured .button__input,
 .pricing--featured .button__link {
-	background: #1eb858;
+	background: #ee6e24;
 }
 
 .button--blue .button__input,
@@ -7925,7 +7925,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .contact-form__message span {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .contact-form__form {
@@ -8033,7 +8033,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .dropdown__icon {
-	color: #1eb858;
+	color: #ee6e24;
 	position: absolute;
 	font-size: 22px;
 	left: 15px;
@@ -8105,11 +8105,11 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .dropdown__item:hover {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .dropdown__item--active {
-	color: #1eb858;
+	color: #ee6e24;
 }
 /* ==========================================================================
    Block: Error
@@ -8138,7 +8138,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .error__highlight {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .error__image {
@@ -8225,7 +8225,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .error__arrow {
-	color: #1eb858;
+	color: #ee6e24;
 	position: absolute;
 	left: -25px;
 	top: 0px;
@@ -8350,7 +8350,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .input__icon {
-	color: #1eb858;
+	color: #ee6e24;
 	position: absolute;
 	font-size: 24px;
 	left: 15px;
@@ -8488,7 +8488,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .link-list__link:hover {
-	color: #1eb858;
+	color: #ee6e24;
 }
 /* ==========================================================================
    Block: List
@@ -8503,7 +8503,7 @@ body.logged-in .YouTubePopUp-Wrap {
 	position: absolute;
 	left: 0;
 	margin-right: 8px;
-	color: #1eb858;
+	color: #ee6e24;
 	font-family: "fontello";
 }
 
@@ -8534,7 +8534,7 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .header--fixed .logo__link {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .logo__image {
@@ -8788,17 +8788,17 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .header--fixed .menu__item--button {
-	border-color: #1eb858;
+	border-color: #ee6e24;
 }
 
 .menu__item--button .menu__link {
-	color: #1eb858;
+	color: #ee6e24;
 	padding: 2px 40px 0 40px;
 	line-height: 36px;
 }
 
 .header--fixed .menu__item--button .menu__link {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__link {
@@ -8859,24 +8859,24 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .menu__item:hover > .menu__link {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__item:hover > .menu__link:after {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__link:hover {
 	text-decoration: none;
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__link:hover:after {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__child .menu__link:hover {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__child .menu__link:hover:before {
@@ -8884,11 +8884,11 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .menu__item--active > .menu__link {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .menu__child .menu__item--active .menu__link {
-	color: #1eb858;
+	color: #ee6e24;
 	position: relative;
 }
 
@@ -8899,7 +8899,7 @@ a[href^="https://maps.google.com/maps"] {
 	top: 13px;
 	width: 15px;
 	height: 1px;
-	background-color: #1eb858;
+	background-color: #ee6e24;
 	left: -30px;
 }
 
@@ -8970,11 +8970,11 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .mobile-menu__item:hover > .mobile-menu__link {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .mobile-menu__item--button .mobile-menu__link {
-	background: #1eb858;
+	background: #ee6e24;
 	color: white;
 	text-align: center;
 }
@@ -9157,7 +9157,7 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .pricing--featured {
-	border: 3px solid #1eb858;
+	border: 3px solid #ee6e24;
 	margin-top: 0;
 	padding: 72px 50px;
 	position: relative;
@@ -9172,7 +9172,7 @@ a[href^="https://maps.google.com/maps"] {
 	height: 180px;
 	top: -90px;
 	right: -90px;
-	background: #1eb858;
+	background: #ee6e24;
 	border-radius: 50%;
 }
 
@@ -9198,7 +9198,7 @@ a[href^="https://maps.google.com/maps"] {
 
 .pricing__price {
 	text-transform: uppercase;
-	color: #1eb858;
+	color: #ee6e24;
 	font-weight: 700;
 	font-size: 60px;
 }
@@ -9374,7 +9374,7 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .section-title__highlight {
-	color: #1eb858;
+	color: #ee6e24;
 }
 /* ==========================================================================
    Block: Section
@@ -9521,7 +9521,7 @@ a[href^="https://maps.google.com/maps"] {
 	counter-increment: dots;
 	content: "0" counter(dots);
 	margin-left: 3px;
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 .slider:after {
@@ -9583,7 +9583,7 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .slider__highlight {
-	color: #1eb858;
+	color: #ee6e24;
 }
 
 @media all and (max-width: 1500px) {
@@ -9653,7 +9653,7 @@ a[href^="https://maps.google.com/maps"] {
 
 .socials__button:hover {
 	background: white;
-	color: #1eb858;
+	color: #ee6e24;
 }
 /* ==========================================================================
    Block: Stats
@@ -9663,13 +9663,13 @@ a[href^="https://maps.google.com/maps"] {
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	padding: 100px 0;
-	border-top: 3px solid #1eb858;
+	border-top: 3px solid #ee6e24;
 	-webkit-box-shadow: 0px 1px 4px 0px rgba(221, 221, 221, 0.75);
 	box-shadow: 0px 1px 4px 0px rgba(221, 221, 221, 0.75);
 }
 
 .stats__number {
-	color: #1eb858;
+	color: #ee6e24;
 	font-weight: 700;
 	font-size: 60px;
 	margin-bottom: 5px;
@@ -9722,7 +9722,7 @@ a[href^="https://maps.google.com/maps"] {
 	width: 100%;
 	bottom: 0;
 	left: 0;
-	background: #1eb858;
+	background: #ee6e24;
 	content: '';
 	height: 0;
 	display: block;
